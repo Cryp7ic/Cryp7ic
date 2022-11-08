@@ -1,6 +1,5 @@
 <div id="header" align="center">
   <img src="https://media2.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif?cid=790b7611791149132bbef1259862079ea4400a8256da3ac5&rid=giphy.gif&ct=s" width="100"/>
-</div>
 <div id="badges">
  <!-- <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -12,6 +11,8 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+</div>
+
 
 # Hi there 👋
 <h2>About Me</h2>
