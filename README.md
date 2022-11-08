@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/stickers/capgemini-techchallenge2020-india-gjrYDwbjnK8x36xZIO" width="100"/>
+  <img src="https://media2.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif?cid=790b7611791149132bbef1259862079ea4400a8256da3ac5&rid=giphy.gif&ct=s" width="100"/>
 </div>
 <div id="badges">
  <!-- <a href="your-linkedin-URL">
