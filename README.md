@@ -11,7 +11,8 @@
 </div>
 
 <h2>Github Stats</h2>
-[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ark-Sec&show_icons=true&theme=tokyonight)](https://github.com/Ark-Sec/github-readme-stats)
+
+(https://github-readme-stats.vercel.app/api?username=Ark-Sec&show_icons=true&theme=tokyonight)](https://github.com/Ark-Sec/github-readme-stats)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ark-Sec)](https://github.com/Ark-Sec/github-readme-stats) -->
 
 <!--
