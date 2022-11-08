@@ -13,8 +13,8 @@
 <h2>Github Stats</h2>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ark-Sec&show_icons=true&theme=tokyonight)](https://github.com/Ark-Sec/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ark-Sec)](https://github.com/Ark-Sec/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ark-Sec&show_icons=true&theme=tokyonight)](https://github.com/Ark-Sec/github-readme-stats)&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ark-Sec)](https://github.com/Ark-Sec/github-readme-stats)&nbsp;
 
 <!--
 **Ark-Sec/Ark-Sec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
