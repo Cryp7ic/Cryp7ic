@@ -14,7 +14,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ark-Sec&show_icons=true&theme=tokyonight)](https://github.com/Ark-Sec/github-readme-stats)&nbsp;
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ark-Sec&show_icons=true&theme=dark)](https://github.com/Ark-Sec/github-readme-stats)&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ark-Sec&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
