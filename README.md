@@ -14,7 +14,7 @@
 </div>
 
 
-# Hi there 👋
+# Hi👋
 <h2>About Me</h2>
 <p>19 year old informatics student from Estonia.
   
