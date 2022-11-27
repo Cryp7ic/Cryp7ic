@@ -16,7 +16,7 @@
 
 # Hi👋
 <h2>About Me:</h2>
-<p>19 year old Informatics student from Estonia.
+<p>Informatics student from Estonia.
   
 <h2>Languages:</h2>
 <div>
